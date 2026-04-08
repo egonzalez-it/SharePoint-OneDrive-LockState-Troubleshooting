@@ -88,19 +88,19 @@ Install-Module Microsoft.Online.SharePoint.PowerShell
 Connect-SPOService -Url https://<tenant>-admin.sharepoint.com
 ```
 ### 2. Check OneDrive Site Status
-
+```powershell
 Get-SPOSite -Identity https://<tenant>-my.sharepoint.com/personal/<user_identifier>  
 | Select Owner, StorageUsageCurrent, StorageQuota, LockState
-
+```
 ### 3. Unlock the Site
-
+```powershell
 Set-SPOSite -Identity https://<tenant>-my.sharepoint.com/personal/<user_identifier> -LockState Unlock
-
+```
 ### 4. Validate
-
+```powershell
 Get-SPOSite -Identity https://<tenant>-my.sharepoint.com/personal/<user_identifier>  
 | Select LockState
-
+```
 ---
 
 ## ✅ Expected Result
