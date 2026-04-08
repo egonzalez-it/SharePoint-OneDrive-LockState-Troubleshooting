@@ -178,4 +178,4 @@ Always check LockState first.
 
 ## 📜 License
 
-Add your preferred license (MIT recommended).
+MIT recommended.
