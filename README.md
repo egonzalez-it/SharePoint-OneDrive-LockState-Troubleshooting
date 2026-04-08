@@ -138,12 +138,12 @@ Get-SPOUser -Site <OneDriveURL>
 ---
 
 ## 📁 Repository Structure
-
+```cmd
 SharePoint-OneDrive-LockState-Troubleshooting/  
 ├── README.md  
 └── Commands/  
     └── Unlock-OneDriveSite.ps1  
-
+```
 ---
 
 ## 💡 Use Cases
