@@ -1,3 +1,13 @@
+![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue?logo=powershell)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-Admin-blue)
+![SharePoint Online](https://img.shields.io/badge/SharePoint-Online-green?logo=microsoftsharepoint)
+![OneDrive](https://img.shields.io/badge/OneDrive-Business-0078D4?logo=microsoftonedrive)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?logo=windows)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)
+![Maintained](https://img.shields.io/badge/Maintained-Yes-success)
+
+
 # SharePoint Online OneDrive LockState Troubleshooting
 
 Resolve OneDrive access issues caused by a locked or read-only site in SharePoint Online.
@@ -178,4 +188,4 @@ Always check LockState first.
 
 ## 📜 License
 
-MIT recommended.
+MIT
