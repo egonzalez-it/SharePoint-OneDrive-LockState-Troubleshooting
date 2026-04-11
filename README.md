@@ -1,4 +1,3 @@
-![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue?logo=powershell)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-Admin-blue)
 ![SharePoint Online](https://img.shields.io/badge/SharePoint-Online-green?logo=microsoftsharepoint)
 ![OneDrive](https://img.shields.io/badge/OneDrive-Business-0078D4?logo=microsoftonedrive)
